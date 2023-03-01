@@ -61,9 +61,9 @@ global.ppulsa2 = '082125276167'
 global.psaweria = 'https://saweria.co/nvkenn'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281323870860'
-global.nomorown = '6282125276167'
-global.namebot = 'XHITORI'
+global.nomorbot = '6285828716652'
+global.nomorown = '6285828716652'
+global.namebot = 'SASUKE'
 global.nameown = 'V4LL'
 
 
@@ -113,8 +113,8 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 X H 1 T O R I シ」' //Main Watermark
-global.wm2 = '𝐗𝐇𝐈𝐓𝐎𝐑𝐈'
+global.wm = '                「 S A S U K E シ」' //Main Watermark
+global.wm2 = 'SASUKE'
 global.wm3 = '❖ ʜɪᴛᴏʀɪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
